@@ -101,6 +101,6 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "outDir": "./dist",
-    "rootDir": "./src/js"
+    "rootDir": "./src/js/"
   }
 }
