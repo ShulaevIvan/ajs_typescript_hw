@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "watch": "tsc -w",
+    "build": "tsc",
     "lint": "eslint --ext --ignore-path .gitignore ."
   },
   "author": "",
